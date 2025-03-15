@@ -1,19 +1,19 @@
 
-/* Üld*/
+/* üld*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body*/
+/* body*/
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to bottom, #1e3c72, #2a5298);
     color: #333;
 }
 
-/* Banneri osa */
+/*banner*/
 .banner {
     height: 480px;
     display: flex;
@@ -42,10 +42,10 @@ body {
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    border: 10px solid #ffcc00;
+    border: 10px solid #ebbc00;
 }
 
-/* Päis ja Sisu */
+/* päis ja sisu */
 .header img {
     width: 120px;
     height: 120px;
@@ -56,18 +56,18 @@ body {
 .header h1 {
     font-size: 36px;
     font-weight: bold;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .header p {
     font-style: italic;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 18px;
 }
 
 /* Sisu osa */
 .content {
-    background: white;
+    background: rgb(255, 255, 255);
     width: 100%;
     max-width: 100%;
     margin: auto;
@@ -78,7 +78,7 @@ body {
 
 .content-box {
     display: flex;
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 20px;
     margin: auto;
 }
@@ -88,7 +88,7 @@ body {
 }
 
 .text-content h1 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     margin: 10px 0;
     margin-left: 80px;
@@ -124,7 +124,7 @@ body {
 
 /* Footer */
 .footer {
-    background: #ffcc00;
+    background: #ebbc00;
     padding: 40px;
     text-align: center;
     font-weight: bold;

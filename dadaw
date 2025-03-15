@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="et">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Jaspar Pirs" />
+    <link rel="stylesheet" href="style3.css">
+    <title>css</title>
+  </head>
+  <body>
+    <header class="banner">
+      <div class="banner-content">
+         <img src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairMiaWallace&accessoriesType=Round&hairColor=Auburn&facialHairType=BeardMajestic&facialHairColor=BrownDark&clotheType=ShirtVNeck&clotheColor=PastelRed&eyeType=Squint&eyebrowType=AngryNatural&mouthType=Grimace&skinColor=Pale'          alt="Avatar"
+          class="avatar"
+        />
+        <h1>Veebilõust</h1>
+        <p class="lause">
+          <i>Mario antud kodutöö mida väga ootasin ja soovisin</i>
+        </p>
+      </div>
+    </header>
+    <main class="content">
+      <div class="content-box">
+        <img
+          src="https://picsum.photos/id/420/290/400"
+          alt="pilt"
+          class="content-image"
+        />
+        <div class="text-content">
+          <h1>Lorem Ipsum</h1>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint esse nesciunt quod consequuntur eveniet, non temporibus odio explicabo blanditiis illum nemo harum minima impedit recusandae nostrum est a maxime dicta.
+          </p>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor et similique ab id cum nemo eaque placeat eligendi corporis in! Explicabo consequuntur nisi sint iste cupiditate blanditiis labore, corporis et.
+          </p>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p>Tegin töö õigeaegselt 2025</p>
+    </footer>
+  </body>
+</html>
